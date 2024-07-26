@@ -4,6 +4,7 @@ const todo = () => {
     <>
         <div>todo</div>
         <div>helloworld</div>
+        <input type="text" />
     </>
   )
 }
