@@ -4,7 +4,7 @@ const todo = () => {
     <>
         <div>todo</div>
         <div>helloworld</div>
-        <input type="text" />
+        <input className="border-2 " type="text" />
     </>
   )
 }
